@@ -1,0 +1,36 @@
+/* Estilos para Div A */
+.div-a {
+    background-color: #FFE4C4;
+    width: 500px;
+    height: 500px;
+}
+
+/* Estilos para Div B */
+.div-b {
+    background-color: #7CFC00;
+    width: 50%;
+    height: 50%;
+}
+
+/* Estilos para Parágrafo C */
+.para-c {
+    color: white;
+    background-color: crimson;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+/* Estilos para Div D */
+.div-d {
+    background-color: rgba(135, 206, 250, 0.5);
+    width: 50%;
+    height: 50vh;
+}
+
+/* Estilos para Div E */
+.div-e {
+    background-color: rgb(255, 192, 203);
+    width: 75vw;
+    height: 50%;
+}
